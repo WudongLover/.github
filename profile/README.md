@@ -16,7 +16,9 @@ https://github.com/orgs/WudongLover/projects/1
 
 # 前端启动指令
 cd .\app\wu_dong_vue\
+
 npm install
+
 npm run dev
 
 # 主仓库
